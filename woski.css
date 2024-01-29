@@ -1,0 +1,31 @@
+@media (max-width: 480px) {
+   
+    header{
+        display: none;
+    }
+  
+  }
+  
+  /* Styles for slightly larger mobile devices */
+  @media (max-width: 600px) {
+    header{
+        display: none;
+    }
+   
+    }
+    
+  
+  @media only screen 
+  and (device-width: 320px) 
+  and (device-height: 568px) 
+  and (-webkit-device-pixel-ratio: 2) {
+  
+    header{
+        display: none;
+    }
+   
+
+
+}
+
+
